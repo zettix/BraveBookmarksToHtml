@@ -4,5 +4,5 @@ Brave's json *Bookmarks* file cannot be imported by the *Brave Browser*.  This u
 Usage:
 
 ```
-./brave2ff.py -b Bookmarks  -h bookmarks.html
+./BraveBookmarksToHtml.py -b Bookmarks  -h bookmarks.html
 ```
